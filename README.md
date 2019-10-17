@@ -1,4 +1,4 @@
-# Delayed-estimation-benchmark-data
+# Delayed-estimation benchmark data and factorial model comparison
 
 Introduction: https://www.cns.nyu.edu/malab/resources.html#DE
 
